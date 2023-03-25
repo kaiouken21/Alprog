@@ -3,7 +3,7 @@ using namespace std;
 
 int main(void){
     int sukuN, hitung;
-    cout <<"Masukan Suku yang inngin anda: " << endl;
+    cout <<"Masukan Suku yang ingin anda cari: " << endl;
     cin >> sukuN;
 
     hitung = sukuN*2;
